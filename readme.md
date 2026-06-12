@@ -1,6 +1,6 @@
 
 # 🎲 Análise Estatística da Mega-Sena com Python
-#
+##
 ## 📋 Descrição
 
 Este projeto foi desenvolvido em Python com o objetivo de realizar análises estatísticas sobre os resultados históricos da Mega-Sena e Lotofacil, identificando padrões de frequência das dezenas sorteadas e gerando jogos aleatórios com base nas dezenas mais frequentes.
